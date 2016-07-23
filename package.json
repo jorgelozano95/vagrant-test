@@ -1,0 +1,23 @@
+{
+  "name": "test-proyect",
+  "version": "1.0.0",
+  "description": "vagrant testing proyect",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgelozano95/vagrant-test.git"
+  },
+  "keywords": [
+    "test",
+    "vagrant"
+  ],
+  "author": "Jorge Lozano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgelozano95/vagrant-test/issues"
+  },
+  "homepage": "https://github.com/jorgelozano95/vagrant-test#readme"
+}
