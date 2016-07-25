@@ -1,9 +1,10 @@
 {
-  "name": "test-proyect",
+  "name": "vagrant-test",
   "version": "1.0.0",
   "description": "vagrant testing proyect",
   "main": "server.js",
   "scripts": {
+    "start": "node server/main.js",
     "test": "npm test"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jorgelozano95/vagrant-test/issues"
   },
-  "homepage": "https://github.com/jorgelozano95/vagrant-test#readme"
+  "homepage": "https://github.com/jorgelozano95/vagrant-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
