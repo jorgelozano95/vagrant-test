@@ -38,3 +38,6 @@ jspm_packages
 
 #Bower
 bower_components
+
+#Vagrant
+.vagrant
